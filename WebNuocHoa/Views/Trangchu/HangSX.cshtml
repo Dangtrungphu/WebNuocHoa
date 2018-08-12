@@ -1,0 +1,8 @@
+﻿@model IEnumerable<WebNuocHoa.Models.HANGSX>
+@foreach (var item in Model)
+{
+<ul class="list-links">
+    <li><a href="@Url.Action("SPTheoHang","Trangchu",new { id = item.MaHang })">@item.TenHang</a></li>
+</ul>
+
+}

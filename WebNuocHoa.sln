@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebNuocHoa", "WebNuocHoa\WebNuocHoa.csproj", "{BDE117BA-4367-4B78-AC7F-5509A4F7161D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chung", "ClassLibrary1\Chung.csproj", "{2BEDBA3D-9157-4FB2-BB64-CCD198ACFD3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE117BA-4367-4B78-AC7F-5509A4F7161D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE117BA-4367-4B78-AC7F-5509A4F7161D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE117BA-4367-4B78-AC7F-5509A4F7161D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE117BA-4367-4B78-AC7F-5509A4F7161D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEDBA3D-9157-4FB2-BB64-CCD198ACFD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEDBA3D-9157-4FB2-BB64-CCD198ACFD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEDBA3D-9157-4FB2-BB64-CCD198ACFD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEDBA3D-9157-4FB2-BB64-CCD198ACFD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC671618-0087-438F-8AEE-4E73010556A0}
+	EndGlobalSection
+EndGlobal
